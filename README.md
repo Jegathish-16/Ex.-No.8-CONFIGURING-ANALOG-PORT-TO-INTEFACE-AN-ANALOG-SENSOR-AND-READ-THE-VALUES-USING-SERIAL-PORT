@@ -147,9 +147,10 @@ GND pin is a Ground
 This module also includes a potentiometer that will fix the threshold value, & the value can be evaluated by the comparator-LM393. The LED will turn on/off based on the threshold value.
 
 ##  Program :
-
-### DEVELOPED BY : Venkatesh E
-### REG NO       : 212221230119
+```
+DEVELOPED BY : Jegathish S
+REG NO       : 212221230041
+```
 ```
 #include "main.h"
 #include"stdio.h"
